@@ -1,0 +1,3 @@
+sample,reads1,reads2
+ATAC_ESC-TX1072-A,/scratch/user/ATAC-seq_data/ATAC_ESC_NPC_lane1ATAC-ESC-TX1072-A_1_sequence.txt.gz,/scratch/user/ATAC-seq_data/ATAC_ESC_NPC_lane1ATAC-ESC-TX1072-A_2_sequence.txt.gz
+ATAC_NPC-C5,/scratch/user/ATAC-seq_data/ATAC_ESC_NPC_lane1ATAC-NPC-C5_1_sequence.txt.gz,/scratch/user/ATAC-seq_data/ATAC_ESC_NPC_lane1ATAC-NPC-C5_2_sequence.txt.gz
